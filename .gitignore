@@ -1,0 +1,9 @@
+*.jpg
+*.jpeg
+*.png
+input_*
+upscaled_*
+final_upscaled_*
+running_command.txt
+
+upscaleenv/
